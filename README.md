@@ -8,14 +8,14 @@ jt -t gruvboxd -T
 # gruvboxd ---> Theme Name i.e. (jt -t onedork -T)
 ______________
 Available Themes:
-   chesterish
-   grade3
-   gruvboxd
-   gruvboxl
-   monokai
-   oceans16
-   onedork
-   solarizedd
+   chesterish,
+   grade3,
+   gruvboxd,
+   gruvboxl,
+   monokai,
+   oceans16,
+   onedork,
+   solarizedd,
    solarizedl
  ______________
  ------------------------------------------------
