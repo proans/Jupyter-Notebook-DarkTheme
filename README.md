@@ -19,7 +19,7 @@ Available Themes:
    solarizedl
  ______________
  ------------------------------------------------
-# make sure you have the latest version installed (pip install --upgrade jupyterthemes) and try jt -t onedork -T
+# Make sure you have the latest version installed (pip install --upgrade jupyterthemes) and try jt -t onedork -T
  ------------------------------------------------
  
 * if you've uninstalled jupyterthemes and cannot see the toolbar, try clicking the 'View' dropdown menu in a notebook and then 'Toggle Toolbar'.
