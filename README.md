@@ -1,5 +1,5 @@
 # Jupyter-Notebook-DarkTheme
-Jupyter Notebook DarkTheme With Toggle Toolbar
+Jupyter Notebook DarkTheme With Toggle Toolbar.   Invisible toolbar Problem
 ----------------------------------------------------
 
 You can use the "-T" flag to enable the toolbar.
@@ -8,7 +8,6 @@ jt -t gruvboxd -T
 # gruvboxd ---> Theme Name i.e. (jt -t onedork -T)
 ______________
 Available Themes:
-______________
    chesterish
    grade3
    gruvboxd
